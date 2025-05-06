@@ -45,8 +45,6 @@
   },
   "pnpm": {
     "overrides": {
-      "react": "0.0.0-experimental-93b58361-20250209",
-      "react-dom": "0.0.0-experimental-93b58361-20250209",
       "react-server-dom-parcel": "0.0.0-experimental-93b58361-20250209"
     }
   }
